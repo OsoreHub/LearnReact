@@ -31,7 +31,12 @@ export default function SecondSection() {
         Концентрация
       </Button>
 
-      <p>{contentType}</p>
+      <p>
+        <strong>{contentType}</strong> Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Consequatur sit doloribus voluptatibus labore est quos
+        excepturi nobis velit, at sequi, beatae unde iste ea? Amet ullam ea
+        velit blanditiis consectetur?
+      </p>
     </section>
   );
 }
